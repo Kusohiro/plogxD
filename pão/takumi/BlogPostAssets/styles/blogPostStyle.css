@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body{
-	background-color: #C1EDF2;
+	background-color: #deadff;
 }
 .joaquim{
 	color: blueviolet;
@@ -54,7 +54,7 @@ header nav a {
 #content #mainContent #bannerImage {
 	/*Container for main banner image */
 	width: 100%;
-	background-color: #deadff;
+	background-color: #BC38FF;
 }
 #content #mainContent p {
 	/* All paragraphs under maincontent */
@@ -66,7 +66,7 @@ header nav a {
 }
 #content #mainContent #authorInfo {
 	/* Author info section */
-	background-color: #deadff;
+	background-color: #BC38FF;
 }
 #content #mainContent #authorInfo h2, #content #mainContent #authorInfo p {
 	color: #000000;
@@ -113,7 +113,7 @@ footer article h3 {
 	padding-left: 2%;
 	padding-right: 2%;
 	float: left;
-	background-color: #deadff;
+	background-color: #BC38FF;
 	margin-top: 150px;
 	padding-top: 32px;
 }
@@ -131,7 +131,7 @@ footer article h3 {
 #content #sidebar #adimage {
 	/* Container for Image in sidebar */
 	width: 100%;
-	background-color: #deadff;
+	background-color: #BC38FF;
 	margin-top: 46px;
 	float: none;
 	overflow: auto;
@@ -152,7 +152,7 @@ nav ul li a {
 	/* Footer bar at the bottom of the page */
 	height: 18px;
 	clear: both;
-	background-color: #deadff;
+	background-color: #BC38FF;
 	width: 100%;
 }
 footer {
@@ -255,7 +255,7 @@ footer {
 #mainwrapper header nav {
 	/*navigation links in header */
 	text-align: center;
-	background-color: #deadff;
+	background-color: #BC38FF;
 	width: 98%;
 }
 #content #sidebar #adimage {
